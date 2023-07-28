@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amit rai</h1>
-<h3 align="center">full time div center operator</h3>
+<h3 align="center">full time div operator</h3>
 
 - 🔭 I’m currently working on [katanapim](https://www.katanapim.com/)
 
