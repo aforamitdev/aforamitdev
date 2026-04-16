@@ -83,13 +83,7 @@ My focus: **performance, clean architecture, and real-world impact.**
 
 ---
 
-## 🌍 Let's Connect
 
-- 💼 Portfolio: https://raicomputer.com  
-- 📧 Email: (add if you want)
-- 📱 Phone: +91 9869668902  
-
----
 
 ## ⚡ Fun Fact
 
